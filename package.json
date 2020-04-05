@@ -1,13 +1,13 @@
 {
-  "homepage": "https://ckujawa.gihub.io/reactCalculator",
+  "homepage": "http://ckujawa.github.io/reactCalculator",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "3.1.1",
-    "styled-components": "^4.1.2"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,7 +27,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.1.1"
-  },
-  "homepage": "http://ckujawa.github.io/reactCalculator"
+    "gh-pages": "^2.2.0"
+  }
 }
